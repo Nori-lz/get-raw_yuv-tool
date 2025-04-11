@@ -1,0 +1,9 @@
+gtv133saveRawYuv-v1.0.py	//基于程远【gtv133saveRawYuv-version1.1-cat_raw_yuv】整理所得
+
+gtv133saveRawYuv-v1.1.py	//基于李忠【gtv133saveRawYuv-v1.0.py】，添加一次抓取多张功能。——抓一次传一次，抓的图不是连续帧,需优化
+gtv133saveRawYuv-v1.1.1.py	//基于李忠【gtv133saveRawYuv-v1.1.py】，添加yuv转png图功能。——抓一次传一次，抓的图不是连续帧,需优化
+
+
+gtv133saveRawYuv-v1.2.py	//基于李忠【gtv133saveRawYuv-v1.0.py】，添加yuv转png图功能。
+gtv133saveRawYuv-v1.3.py	//基于李忠【gtv133saveRawYuv-v1.2.py】，添加抓取连续帧N张图。
+gtv133saveRawYuv-v1.4.py	//基于李忠【gtv133saveRawYuv-v1.3.py】，精简保存文件名。
